@@ -16,16 +16,16 @@
 
 Schema electrica:
 
-![schema electrica](hardware/schema_electrica_peiu.jpeg)
+![schema electrica](hardware/Schema_electrica_peiu.jpeg)
 
 Diagrama conexiuni:
 
-![schema bloc](hardware/schema_bloc_peiu.png)
+![schema bloc](hardware/Schema_bloc_peiu.png)
 
 PCB fata:
 
-![pcb fata](hardware/pcb_fata_peiu.jpeg)
+![pcb fata](hardware/pcb_front_peiu.jpeg)
 
 PCB spate:
 
-![pcb spate](hardware/pcb_spate_peiu.jpeg)
+![pcb spate](hardware/pcb_back_peiu.jpeg)
