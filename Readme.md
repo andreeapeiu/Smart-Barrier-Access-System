@@ -29,3 +29,7 @@ PCB fata:
 PCB spate:
 
 ![pcb spate](hardware/pcb_back_peiu.jpeg)
+
+### Video demo
+
+[Video demo pe YouTube](https://youtube.com/shorts/fw3LWh_MJx0?is=S9cDCzvet7fm1EIm)
